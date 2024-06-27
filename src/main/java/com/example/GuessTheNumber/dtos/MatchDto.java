@@ -1,4 +1,4 @@
 package com.example.GuessTheNumber.dtos;
 
-public class DummyDto {
+public class MatchDto {
 }
