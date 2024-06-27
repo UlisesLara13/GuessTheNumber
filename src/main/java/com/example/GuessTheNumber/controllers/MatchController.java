@@ -16,6 +16,4 @@ public class MatchController {
     @Autowired
     private MatchService matchService;
 
-
-
 }
